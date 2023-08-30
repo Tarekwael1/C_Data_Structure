@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1693411902 source:d:\projects\c prog\data structure\data_structure_f_project\project.c
+	"project.h"
+
+1693411674 d:\projects\c prog\data structure\data_structure_f_project\project.h
+	<stdio.h>
+	<stdlib.h>
+	"platform_types.h"
+
+1690466512 d:\projects\c prog\data structure\data_structure_f_project\platform_types.h
+
+1693412156 source:d:\projects\c prog\data structure\data_structure_f_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"project.h"
+
